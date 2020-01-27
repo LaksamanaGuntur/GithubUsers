@@ -3,7 +3,7 @@
 This example app is for search github users with **Endless Scrolling**.
 
 # How To Use App
-  - Type some text in editText
+  - Type some text in editText, and wait 2 second
   - See list of user's, scroll down for more data
   - Magic!
 
