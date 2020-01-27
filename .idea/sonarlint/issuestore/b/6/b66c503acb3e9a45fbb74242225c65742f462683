@@ -1,0 +1,6 @@
+
+Rsquid:S2696 "6Make the enclosing method "static" or remove this set.(Ä¦Ï¥úÿÿÿÿ
+˜squid:S1186B"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×İŠÎ
+Csquid:S3010"'Remove this assignment of "mDataModel".(Íİ¤ÿÿÿÿÿ
+Ÿ%squid:RedundantThrowsDeclarationCheck#"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.(¤„‚ÿÿÿÿÿ
+Csquid:S3010",Remove this assignment of "mMainRepository".(ò¹ûà
